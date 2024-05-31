@@ -1,4 +1,4 @@
-# Функция time_from_uuidv1 для postgresql и greenplum
+# Функция time_from_uuidv1 для postgresql/greenplum и clickhouse
 
 * что делает функция: достает временную метку из гуидов версии 1 иначе возвращает null
 * как пользоваться: передаем в функцию гуид забираем результат.
