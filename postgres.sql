@@ -1,4 +1,4 @@
-CREATE OR REPLACE FUNCTION public.time_from_uuidv1(guid uuid)
+CREATE OR REPLACE FUNCTION time_from_uuidv1(guid uuid)
   RETURNS timestamp
   LANGUAGE plpgsql
   VOLATILE
