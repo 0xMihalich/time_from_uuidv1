@@ -7,7 +7,7 @@
 
 ```sql
 select
-   time_from_uuidv1('43733e8c-5729-11e8-a590-00155d033306'::uuid)
+   time_from_uuidv1('43733e8c-5729-11e8-a590-00155d033306'::UUID)
 ```
 
 ### результат:
